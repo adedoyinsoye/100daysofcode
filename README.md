@@ -7,8 +7,6 @@ Ready...Set...Start!
 
 
 
-Day 1
-Started an Introductory Python course on Udacity. I learnt about the basic python syntax, arithmetic and assignment operators, variables, data types.
+Day 1-32
+Python and SQL Beginner Courses
 
-
-Day 2
