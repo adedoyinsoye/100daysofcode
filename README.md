@@ -6,6 +6,6 @@ Ready...Set...Start!
 
 
 
-Day 1-32
+Day 1-35
 Python and SQL Beginner Courses
 
